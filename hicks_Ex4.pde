@@ -1,4 +1,4 @@
-/*Lauren Hicks (400200963)
+/*Lauren Hicks
 / Polygon function from https://processing.org/examples/regularpolygon.html
 / The rest is written from scratch. 
 / Code draws shapes at random positions when keys are pressed.
